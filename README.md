@@ -116,6 +116,16 @@ http://localhost:5173
 * Admin dashboard
 
 ---
+**📸 Screenshots**
+<img width="1904" height="918" alt="HomePage" src="https://github.com/user-attachments/assets/0d6c77fb-2292-474a-a25e-6e8f29a6a17b" />
+<img width="1884" height="907" alt="ThemChange" src="https://github.com/user-attachments/assets/923dc98c-3d5f-480e-97d9-9c15dcab24ad" />
+<img width="1884" height="907" alt="ThemChange" src="https://github.com/user-attachments/assets/7068f15e-58fa-4f57-9dcb-78c2bfb491f6" />
+ <img width="1888" height="918" alt="Cartpage" src="https://github.com/user-attachments/assets/7fed75a1-adb5-42c8-aafd-3f56dc586cfc" />
+
+
+
+
+
 
 **👨‍💻 Author**
 
