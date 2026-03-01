@@ -1,16 +1,125 @@
-# React + Vite
+**🛍️ React E-Commerce Store**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive e-commerce web application built with **React + Vite**, featuring a clean UI, dark/light theme support, shopping cart, wishlist, and product detail pages.
 
-Currently, two official plugins are available:
+This project demonstrates strong frontend development skills including state management, reusable components, responsive design, and API integration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+ 
+**✨ Features**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**🛒 Shopping Experience**
 
-## Expanding the ESLint configuration
+* Product catalog with responsive grid layout
+* Add to cart with quantity controls
+* Wishlist support
+* Product detail pages with ratings
+* Product search functionality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**🎨 UI & Performance**
+
+* Dark / Light theme toggle
+* Smooth UI animations
+* Fully responsive for mobile, tablet, desktop
+* Fast build with Vite
+
+---
+
+**🛠️ Tech Stack**
+
+* Frontend: React 18
+* Build Tool: Vite
+* State Management: React Context API
+* Styling: CSS3 with animations
+* Mock Backend: JSON Server
+* Code Quality: ESLint
+
+---
+
+**📁 Project Structure**
+
+```
+src/
+├── components/
+│   ├── Loader.jsx
+│   ├── Modal.jsx
+│   └── Navbar.jsx
+├── context/
+│   ├── CartContext.jsx
+│   ├── ThemeContext.jsx
+│   └── WishlistContext.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── Cart.jsx
+│   └── ProductDetails.jsx
+├── services/
+│   └── api.jsx
+├── utils/
+│   └── formatCurrency.js
+├── App.jsx
+├── index.css
+└── main.jsx
+```
+
+---
+
+**⚙️ Installation & Setup**
+
+**1️⃣ Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/react-ecommerce-store.git
+cd react-ecommerce-store
+```
+
+**2️⃣ Install dependencies**
+
+```bash
+npm install
+```
+
+**3️⃣ Start JSON server**
+
+```bash
+npx json-server --watch db.json --port 3001
+```
+
+**4️⃣ Run the app**
+
+```bash
+npm run dev
+```
+
+Open in browser:
+http://localhost:5173
+
+---
+
+**🎯 What I Learned From This Project**
+
+* Building reusable React components
+* Managing global state using Context API
+* Creating responsive layouts
+* Implementing cart logic and UI updates
+* Handling API data with JSON Server
+* Structuring scalable frontend projects
+
+---
+
+**📌 Future Improvements**
+
+* Payment gateway integration
+* User authentication
+* Order history page
+* Backend integration with real database
+* Admin dashboard
+
+---
+
+**👨‍💻 Author**
+
+**Yashavanatha Kumar R T**
+**LinkedIn:** https://www.linkedin.com/in/yashavantha-kumar-rt
+
+ 
