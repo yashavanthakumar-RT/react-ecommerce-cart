@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "price": 57400,
+      "category": "Electronics",
+      "description": "High performance laptop for work and study",
+      "image": "https://png.pngtree.com/png-vector/20250522/ourmid/pngtree-modern-laptop-computer-with-screen-open-technology-digital-device-png-image_16345445.png"
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "price": 5100,
+      "category": "Electronics",
+      "description": "Latest smartphone with AMOLED display",
+      "image": "https://img.freepik.com/free-vector/realistic-display-smartphone-with-different-apps_52683-30241.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Wireless Headphones",
+      "price": 9840,
+      "category": "Electronics",
+      "description": "Noise cancelling wireless headphones",
+      "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/WH1000XM6_Primary_image_Midnight_Blue?$primaryshotPreset$&fmt=png-alpha"
+    },
+    {
+      "id": 4,
+      "title": "Smart Watch",
+      "price": 4760,
+      "category": "Electronics",
+      "description": "Fitness tracking smart watch",
+      "image": "https://in.amazfit.com/cdn/shop/products/61D44N16zDL._SX679.jpg?v=1701612185"
+    },
+    {
+      "id": 5,
+      "title": "Men's T-Shirt",
+      "price": 2050,
+      "category": "Fashion",
+      "description": "Cotton round-neck casual t-shirt",
+      "image": "https://image.made-in-china.com/202f0j00VwkcuQYlZMoC/Mens-Quick-Dry-Sports-T-Shirts-Short-Sleeve-Activewear-Tops-Lightweight-Breathable-T-Shirt.webp"
+    },
+    {
+      "id": 6,
+      "title": "Women's Handbag",
+      "price": 6150,
+      "category": "Fashion",
+      "description": "Stylish leather handbag",
+      "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018825157_437Wx649H_202308191932231.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Running Shoes",
+      "price": 7790,
+      "category": "Footwear",
+      "description": "Lightweight running shoes",
+      "image": "https://contents.mediadecathlon.com/p2175417/f43c5586951a9cb1cd1f93d7c102aa79/p2175417.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Bluetooth Speaker",
+      "price": 7380,
+      "category": "Electronics",
+      "description": "Portable Bluetooth speaker",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzm330_QXVLpQJnT6jKW3ixSYYI9Vka9t6Q&s"
+    },
+    {
+      "id": 9,
+      "title": "Office Chair",
+      "price": 7220,
+      "category": "Furniture",
+      "description": "Ergonomic office chair",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNFIhZc0BBp16ASNixXTZfNvzfqvE25RrsA&s"
+    },
+    {
+      "id": 10,
+      "title": "Wooden Study Table",
+      "price": 2240,
+      "category": "Furniture",
+      "description": "Solid wood study table",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18H3s5uF6ZgSDbq6-61Zw6pcdrt-JJpo64Q&s"
+    },
+    {
+      "id": 11,
+      "title": "Backpack",
+      "price": 920,
+      "category": "Accessories",
+      "description": "Water-resistant travel backpack",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENX-Rmb_2NrBy-Up1wUze5Zd7UA2C7aBL0w&s"
+    },
+    {
+      "id": 12,
+      "title": "Sunglasses",
+      "price": 360,
+      "category": "Accessories",
+      "description": "UV protected stylish sunglasses",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKCG_qRs-EHO3ttnyPcz827vTwRF6zuEmfw&s"
+    },
+    {
+      "id": 13,
+      "title": "Coffee Maker",
+      "price": 660,
+      "category": "Home Appliances",
+      "description": "Automatic drip coffee maker",
+      "image": "https://mahajanelectronics.com/cdn/shop/files/61PSF0cuiaL._SL1500.jpg?v=1762603397&width=1500"
+    },
+    {
+      "id": 14,
+      "title": "Air Fryer",
+      "price": 1320,
+      "category": "Home Appliances",
+      "description": "Oil-free air fryer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemUGm-0HTzjIJ2RdBtVPKLlDWYJlmbXrv5g&s"
+    },
+    {
+      "id": 15,
+      "title": "Electric Kettle",
+      "price": 3280,
+      "category": "Home Appliances",
+      "description": "Fast boiling electric kettle",
+      "image": "https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/750x750/Multi-Purpose-Electric-Kettle-2-Ltr-1.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Notebook Set",
+      "price": 1230,
+      "category": "Stationery",
+      "description": "Set of 5 ruled notebooks",
+      "image": "https://m.media-amazon.com/images/I/815l1fPVlWL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Wireless Mouse",
+      "price": 2870,
+      "category": "Electronics",
+      "description": "Ergonomic wireless mouse",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9q2x7n1ccV5Hh3FncNSNK3a4XRevLxJQKQ&s"
+    },
+    {
+      "id": 18,
+      "title": "Mechanical Keyboard",
+      "price": 6970,
+      "category": "Electronics",
+      "description": "RGB mechanical keyboard",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpt0jPwW8Axsh1GCb7MPpC9fq1ImvOIa8ENA&s"
+    },
+    {
+      "id": 19,
+      "title": "Gaming Chair",
+      "price": 19680,
+      "category": "Furniture",
+      "description": "Comfortable gaming chair with headrest",
+      "image": "https://m.media-amazon.com/images/I/61WRx9WGe2L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Organic Honey",
+      "price": 1476,
+      "category": "Groceries",
+      "description": "Pure organic honey",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/11/465007441/KU/JM/BC/30736415/pure-honey-500x500.webp"
+    },
+    {
+      "id": 21,
+      "title": "Wireless Earbuds",
+      "price": 7790,
+      "category": "Electronics",
+      "description": "True wireless earbuds with charging case",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsAoUr4sLqCYoXPAjJUfyH4SMYC51xABLLyQ&s"
+    },
+    {
+      "id": 22,
+      "title": "LED Desk Lamp",
+      "price": 2460,
+      "category": "Home & Living",
+      "description": "Adjustable LED desk lamp with touch control",
+      "image": "https://images-cdn.ubuy.co.in/67c9428cc6877a3254335704-e-energetic-led-light-desk-lamp-3-5w.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Yoga Mat",
+      "price": 2296,
+      "category": "Fitness",
+      "description": "Non-slip yoga mat for home workouts",
+      "image": "https://m.media-amazon.com/images/I/71dMquqaISL.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Water Bottle",
+      "price": 1476,
+      "category": "Lifestyle",
+      "description": "Stainless steel insulated water bottle",
+      "image": "https://pexpo.in/cdn/shop/files/Extreme_E_1_9cc1603e-3e8d-4317-953b-e9378e829685.jpg?v=1758113535&width=1946"
+    },
+    {
+      "id": 26,
+      "title": "Ceramic Coffee Mug",
+      "price": 130,
+      "category": "Home & Kitchen",
+      "description": "350ml ceramic coffee mug suitable for hot and cold beverages",
+      "image": "https://ambihome.in/cdn/shop/files/37_bb7fcd94-93a2-4849-b4bc-838ea972d722.png?v=1719562110&width=2048"
+    }
+  ]
+}
